@@ -1,0 +1,184 @@
+.mainTitle{
+  font-size: 40px;
+  text-align: center;
+  text-decoration:#b302ff underline;
+  color: #ff006a;
+  text-decoration: underline;
+}
+
+p {
+  color: red;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.map{
+  width: 900px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  text-align: center;
+}
+
+.goldKing{
+  text-align: center;
+  position: relative;
+  bottom: 370px;
+  left: -180px;
+  padding: 0px;
+}
+
+.goldKing *{
+  margin: 0px;
+}
+
+.flint{
+  text-align: center;
+  position: relative;
+  bottom: 515px;
+  left: 180px;
+  padding: 0px;
+}
+
+.flint *{
+  margin: 0px;
+}
+
+.deepWater{
+  text-align: center;
+  position: relative;
+  bottom: 300px;
+  left: 120px;
+  padding: 0px;
+}
+
+.deepWater *{
+  margin: 0px;
+}
+
+.pacific{
+  text-align: center;
+  position: relative;
+  bottom: 700px;
+  left: -440px;
+  padding: 0px;
+  
+}
+
+.pacific *{
+  margin: 0px;
+}
+
+.dot{
+  font-size: 50px;
+  height: 50px;
+  color: red;
+}
+
+.mapAnText{
+  font-size: 10px;
+  position: relative;
+  text-align: center;
+  height: 650px;
+}
+
+.place{
+/*   background: rgba(0, 0, 0, .8);  */
+  color: black;
+  cursor: pointer;
+}
+
+.slogang{
+  text-align:center;
+  color: #d91fa4;
+  text-decoration: #823271 underline overline;
+}
+.container {
+  display: flex;
+  text-align:center;
+  justify-content: space-around;
+  font-family: 'Acme', sans-serif;
+  font-size: 8px;
+}
+.imgone {
+  height: 200px;
+  width: 300px;
+  border: double purple 16px;
+  
+}
+.imgtwo {
+  height: 200px;
+  width: 300px;
+  border: ridge green 14px;
+}
+.imgthree {
+  height: 200px;
+  width: 300px;
+  border: double blue 16px;
+}
+.caption{
+  position: relative;
+  bottom: 60px;
+}
+#us {
+  color:#2e8505;
+  font-family: 'Dancing Script', cursive;
+}
+
+.SolutionP {
+  font-family: 'Fira Sans', sans-serif;
+  color: black;
+  font-size: 25px;
+  margin-right: 30px;
+  max-width: 80%;
+}
+  
+.Runoff{
+  font-family: 'Cinzel', serif;
+  color: #270a6b;
+  margin-left: 100px;
+  font-size: 20px;
+  text-align: left;
+  padding: 4px;
+  max-width: 80%;
+}
+
+
+.Farm {
+  font-family: 'Cinzel', serif;
+  color: #270a6b;
+  font-size: 20px;
+  margin-left: 100px;
+  text-align: left;
+  padding: 4px;
+  max-width: 80%;
+}
+
+.Oil {
+  font-family: 'Cinzel', serif;
+  color: #27058a;
+  font-size: 20px;
+  margin-left: 100px;
+  text-align: left;
+  padding: 4px;
+  max-width: 80%;
+}
+
+body {
+  text-align: center;
+  list-style-position: inside;
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+margin: 80px;
+}
+
+.Important {
+  display: flex;
+  justify-content: center;
+}
+
+.Solutionheader {
+  font-size: 30px;
+}
+
